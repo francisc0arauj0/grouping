@@ -20,9 +20,9 @@ Grouping is 100% open source, you can see everything that is happening in your a
   - [x] Sign-up
   - [x] Account settings
 
-- [ ] UI
+- [x] UI
 
-  - [ ] Light/dark mode
+  - [x] Light/dark mode
   - [x] Responsive UI
 
 - [ ] Servers
