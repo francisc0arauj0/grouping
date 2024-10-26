@@ -1,17 +1,17 @@
 # Contribute
-How to start contributing
 
+How to start contributing
 
 1. Clone repository
 
-```shell 
+```shell
 git clone https://github.com/francisc0arauj0/grouping
 ```
 
 2. Install dependencies
 
 ```shell
-npm i 
+npm i
 ```
 
 3. Install [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
@@ -21,6 +21,7 @@ npm i -g gitmoji-cli
 ```
 
 4. Configure .env
+
 ```dotenv
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
@@ -33,4 +34,3 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 ```shell
 npm run dev
 ```
-
